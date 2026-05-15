@@ -21,17 +21,17 @@
 
 ```typescript
 const anubhav = {
-  name:       "Anubhav Jaiswal",
+  name:       "Aditya Kumar",
   role:       "Software Developer & AI Enthusiast",
   location:   "India 🇮🇳",
   portfolio:  "https://anubhavxdev.vercel.app",
-  email:      "anubhavjaiswal1803@gmail.com",
+  email:      "adityadev0577@gmail.com",
 
   currentlyLearning: ["AI/ML", "LLMs & RAG", "System Design", "Rust"],
   interests:         ["Web Development", "DevOps", "Web3", "Cloud", "Open Source"],
   askMeAbout:        ["React", "Node.js", "Python", "Full Stack Development"],
 
-  funFact: "I build things, break them, then build them better 🔁"
+  
 };
 ```
 
